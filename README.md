@@ -19,40 +19,44 @@ I'm committed to continuous learning and building practical projects that demons
 ### 💻 Technical Skills
 
 - **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, exploratory data analysis, statistical analysis
+- **Data Analysis:** Pandas, NumPy, exploratory data analysis (EDA), statistical analysis
 - **Machine Learning:** Scikit-learn, classification, regression, model evaluation
+- **Recommendation Systems:** Recommendation algorithms, personalized recommendations
 - **Time-Series Analysis:** Statsmodels, ARIMA, SARIMA, forecasting
-- **Natural Language Processing:** Text preprocessing, TF-IDF, n-gram analysis
-- **LLMs:** Foundational understanding of large language models and their applications
+- **Natural Language Processing (NLP):** Text preprocessing, TF-IDF, n-gram analysis
+- **Transformers & LLMs:** Transformer architectures, foundational understanding of large language models (LLMs) and their applications
 - **Visualization:** Tableau, Matplotlib, Seaborn
 - **Big Data:** PySpark
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code, Google Colab
-
-### 📂 Featured Projects
-
-- **Investment Readiness & Recommendation System for Kenyan Adults** *(In Progress)* — Developing a data-driven recommendation system to assess investment readiness among Kenyan adults and provide tailored guidance based on financial circumstances, preparedness, and investment goals.
-
-- **Forest Fires Analysis** — Analyzed forest fire data to explore patterns, trends, and factors associated with fire occurrence and spread.
-
-- **House Price Prediction** — Applied machine learning regression techniques to estimate house prices and explore the factors influencing property values.
-
-- **Amazon Customer Review Analytics** — Analyzed customer reviews using natural language processing techniques, including text preprocessing, lemmatization, TF-IDF, and n-gram analysis. Explored review-rating classification and time-series forecasting to extract insights from customer feedback
 - 
+  ### 📂 Featured Projects
+  
+- **Investment Readiness Prediction & Recommendation System for Kenyan Adults** *(Moringa Capstone | In Progress)* — Developing a machine learning solution using Kenya’s 2024 FinAccess Household Survey to predict investment usage, identify factors influencing investment participation, and provide personalized recommendations. Integrates explainable AI (SHAP) to interpret model predictions and support data-driven financial decision-making.
+
+- **AI-Powered Waste Management System** — Exploring the application of artificial intelligence and data-driven approaches to improve waste management, support waste classification, and promote more efficient and sustainable waste handling.
+
+- **Amazon Customer Review Analytics** — Applied natural language processing (NLP) to customer reviews through text preprocessing, lemmatization, TF-IDF, and n-gram analysis. Explored review-rating classification and time-series forecasting to uncover customer sentiment patterns, feedback trends, and insights into consumer behaviour.
+
+- **House Price Prediction & Tableau Dashboard** — Applied machine learning regression techniques to estimate house prices and explore the factors influencing property values. Complemented the analysis with an interactive Tableau dashboard to visualize housing trends, compare property characteristics, and communicate key insights.
+  
 ### 💼 Professional Experience
 
-- **Data Management Officer – Admissions Office | Rift Valley Academy** — Supporting data management, data quality, record accuracy, and information systems.
-- **Health Records Management and Information Officer Intern | AIC Kijabe Hospital** — Gaining practical experience in health information management, clinical data, and accurate handling of sensitive information.
-- 
+- **Data Manager | Rift Valley Academy** — Manage and maintain records, support data accuracy and validation, prepare reports, and organize information to support administrative and operational decision-making.
 
+- **Health Records Management Intern | AIC Kijabe Hospital** — Worked in the Cancer Registry, supporting cancer data management, record accuracy, and data analysis. Gained practical experience in reviewing clinical data, identifying patterns, and maintaining the confidentiality of sensitive patient information.
+  
 ### 🎯 Areas of Interest
 
 - Data Analytics and Business Intelligence
-- Predictive Modeling and Machine Learning
-- Time-Series Forecasting and Recommendation systems
-- Natural Language Processing and Large Language Models
-- Data Visualization and Dashboard Development
+- Machine Learning and Predictive Modeling
+- Recommendation Systems
+- Time-Series Analysis and Forecasting
+- Natural Language Processing (NLP), Transformers, and Large Language Models (LLMs)
+- Explainable AI (XAI)
+- Data Visualization, Reporting, and Dashboard Development
 - Big Data Analytics and Data Engineering
-
+- Data Quality and Management
+  
 ### 📫 Let's Connect
 
 - **LinkedIn:** [Fascos Jepleting](https://www.linkedin.com/in/fascos-jepleting/)
